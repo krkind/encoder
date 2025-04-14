@@ -1,2 +1,2 @@
-# encoder
-A Python GUI encoder application 
+# Encoder
+A Python GUI encoder example application using PySide6 library 
